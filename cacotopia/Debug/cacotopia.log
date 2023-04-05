@@ -1,0 +1,18 @@
+﻿  Arena.cpp
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.cpp(68,11): warning C4129: '_': unrecognized character escape sequence
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.cpp(74,11): warning C4129: ' ': unrecognized character escape sequence
+  cacotopia.cpp
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Movement.cpp
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Player.cpp
+  Store.cpp
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Arena.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\parke\source\repos\Cacotopia\cacotopia\Player.cpp(102): warning C4715: 'Player::changeHealth': not all control paths return a value
+  cacotopia.vcxproj -> C:\Users\parke\source\repos\Cacotopia\Debug\cacotopia.exe
