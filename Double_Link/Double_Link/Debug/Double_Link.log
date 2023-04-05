@@ -1,0 +1,5 @@
+﻿  DLinkedList.cpp
+  Double_Link.cpp
+C:\Users\parke\source\repos\Double_Link\Double_Link\Double_Link.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Double_Link.vcxproj -> C:\Users\parke\source\repos\Double_Link\Debug\Double_Link.exe
