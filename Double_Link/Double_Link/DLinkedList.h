@@ -8,7 +8,7 @@ using namespace std;
 template <class T> //universal type that can be passed around. reminds me of python in some ways
 
 class DLinkedList {
-	friend ostream& operator << (ostream& out, const DLinkedList<T>& rhs) { //fun things that I dont fully understand but dont use
+	friend ostream& operator << (ostream& out, const DLinkedList<T>& rhs) { 
 		DNode* curr = rhs.header->next;              //in basics works with the file retrevial? Is a friend and can be accessed from most anywhere that it needs to be
 		while (curr != rhs.header) {
 			out << curr->data << " ";
